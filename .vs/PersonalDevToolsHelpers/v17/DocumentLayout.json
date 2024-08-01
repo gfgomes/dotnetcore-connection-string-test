@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\playground\\dotnet\\console\\PersonalDevToolsHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713E8391-ADB8-41B9-B9DE-DCE0B2A3B3DD}|ConnectionStringTest\\ConnectionStringTest.csproj|d:\\source\\playground\\dotnet\\console\\personaldevtoolshelpers\\connectionstringtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713E8391-ADB8-41B9-B9DE-DCE0B2A3B3DD}|ConnectionStringTest\\ConnectionStringTest.csproj|solutionrelative:connectionstringtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\playground\\dotnet\\console\\PersonalDevToolsHelpers\\ConnectionStringTest\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectionStringTest\\Program.cs",
+              "ToolTip": "D:\\source\\playground\\dotnet\\console\\PersonalDevToolsHelpers\\ConnectionStringTest\\Program.cs",
+              "RelativeToolTip": "ConnectionStringTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:36:23.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
